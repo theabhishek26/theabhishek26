@@ -20,9 +20,7 @@ Feel free to explore my repositories to see some of the projects I have worked o
 Contact
 If you have any questions or would like to collaborate on a project, please feel free to reach out to me!
 
-Leetcode:leetcode.com/u/ompbabhinav2/
-Email: ompbabhinav2@gmail.com 📧
-LinkedIn: linkedin.com/in/abhinav-ojha
-Twitter https://x.com/Abhinav43358626
-Portfolio .https://abhinav-ojha-portfolio.vercel.app/
+Leetcode: https://leetcode.com/u/26_abhishek/
+LinkedIn: www.linkedin.com/in/26abhishek
+
 Thank you for visiting my GitHub profile! 🙌
