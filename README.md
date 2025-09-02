@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Kashyap</h1>
 <h3 align="center">A passionate Frontend developer and have hands on experience on Data Science</h3>
 
-<p align="left"> <a href="https://twitter.com/akkashyap34525" target="blank"><img src="https://img.shields.io/twitter/follow/akkashyap34525?logo=twitter&style=for-the-badge" alt="akkashyap34525" /></a> </p>
-
 - 🔭 I’m currently working on **Data Science**
 
 - 🌱 I’m currently learning **DSA, Computer Science**
